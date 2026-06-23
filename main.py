@@ -1,1 +1,3 @@
-print("Hello Python")
+name = "Python"
+
+print(name)
