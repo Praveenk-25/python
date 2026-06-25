@@ -1,3 +1,3 @@
-name = "Python"
+import os
 
-print(name)
+print(os.getenv("USER"))
